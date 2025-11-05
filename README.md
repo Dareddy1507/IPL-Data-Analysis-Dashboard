@@ -2,8 +2,7 @@
 
 A comprehensive IPL (Indian Premier League) data analytics project built using Power BI to explore cricket data, uncover insights, and visualize player & team performance.
 ________________________________________
-![Dashboard Screenshot](<img width="965" height="531" alt="ipl data analysis" src="https://github.com/user-attachments/assets/66514a42-e11d-482c-bf25-07a3138d085d" />
-)
+![Dashboard Screenshot](C:\Users\Admin\OneDrive\Desktop\pandas\ipl data analysis.png)
 ________________________________________
 # Project Overview
 This project analyzes IPL matches, players, and team statistics to provide actionable insights for fans, analysts, and teams. It includes interactive dashboards, data visualizations, and detailed analytics.
