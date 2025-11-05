@@ -2,7 +2,7 @@
 
 A comprehensive IPL (Indian Premier League) data analytics project built using Power BI to explore cricket data, uncover insights, and visualize player & team perform
 _______________________________________
-Dashboard <a href="(https://github.com/Dareddy1507/IPL-Data-Analysis-Dashboard/blob/main/ipl%20Dashboard.png)">View Dashboard</a>
+Dashboard <a href="https://github.com/Dareddy1507/IPL-Data-Analysis-Dashboard/blob/main/ipl%20Dashboard.png">View Dashboard</a>
 
 ________________________________________
 # Project Overview
